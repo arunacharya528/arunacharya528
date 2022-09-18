@@ -2,4 +2,4 @@
 
 Skills: Laravel, React
 
-I'm from Nepal
+Based on KTM
